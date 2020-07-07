@@ -1,0 +1,66 @@
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.deps.json
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.runtimeconfig.json
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.runtimeconfig.dev.json
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.dll
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.pdb
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.Views.dll
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.Views.pdb
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csprojAssemblyReference.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorAssemblyInfo.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorAssemblyInfo.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.AssemblyInfoInputs.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.AssemblyInfo.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.TagHelpers.input.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.TagHelpers.output.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorCoreGenerate.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorTargetAssemblyInfo.cache
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorTargetAssemblyInfo.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.Views.pdb
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.dll
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.pdb
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csproj.CopyComplete
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Create.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Delete.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Details.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Edit.g.cshtml.cs
+C:\Users\DELL 3040\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Index.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.deps.json
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.runtimeconfig.json
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.runtimeconfig.dev.json
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.dll
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.pdb
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.Views.dll
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\netcoreapp2.1\PersonalDiaryApp.Views.pdb
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csprojAssemblyReference.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorAssemblyInfo.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorAssemblyInfo.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.AssemblyInfoInputs.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.AssemblyInfo.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.TagHelpers.input.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.TagHelpers.output.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorCoreGenerate.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Create.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Delete.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Details.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Edit.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\DiaryReports\Index.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorTargetAssemblyInfo.cache
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.RazorTargetAssemblyInfo.cs
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.Views.pdb
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.dll
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.pdb
+C:\Users\DELL 3040\Desktop\CoreNet Task Answer\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\netcoreapp2.1\PersonalDiaryApp.csproj.CopyComplete

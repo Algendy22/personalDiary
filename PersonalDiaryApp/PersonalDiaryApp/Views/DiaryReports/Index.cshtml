@@ -1,0 +1,94 @@
+﻿
+
+@model IEnumerable<PersonalDiaryApp.Models.DiaryReport>
+@{
+    ViewData["Title"] = "  Personal  Diary  Manager";
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/js/bootstrap-datepicker.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker.css" rel="stylesheet">
+
+<h2>My Personal  Diary  </h2>
+<h2 style="color:red">Red Color For Time  Over Delete It </h2>
+
+<br />
+<div>
+
+    <div style="float:left">
+        <a asp-action="Create"><input class="btn btn-primary" value="Add New Diary" /></a>
+
+    </div>
+    
+    <div style="float:right; width:40%;">
+        <form asp-controller="DiaryReports" asp-action="Index" class="form-group">
+            <div class="col-sm-6">
+                <input class="form-control" type="text" name="SearchString" placeholder="Search">
+            </div>
+            <button type="submit" class="btn btn-default btn-info">Filter</button>
+        </form>
+    </div>
+</div>
+<br />
+<br />
+<table class="table table-hover" enctype="multipart/form-data">
+
+    <thead>
+        <tr>
+
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+
+            <th>@Html.DisplayNameFor(model => model.DiaryDate)</th>
+            @*<th>@Html.DisplayNameFor(model => model.DiaryTime)</th>*@
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.DiaryImage)</th>
+
+            <th>Action Item</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.DiaryDate < DateTime.Now)
+            {
+                <tr style="color:red">
+
+                    <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DiaryDate)</td>
+
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td>
+                        <img class="img-thumbnail" style="cursor:pointer;height:250px;width:250px" src="@item.DiaryImage"
+                             asp-append-version="true" alt="@item.DiaryImage" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ItemId"><input class="btn btn-warning" value="Edit" style="width:25%" /> </a>
+                        <a asp-action="Delete" asp-route-id="@item.ItemId"><input class="btn btn-danger" value="Delete" style="width:25%" /></a>
+                    </td>
+
+                </tr>}
+            else
+            {
+                <tr>
+
+                    <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DiaryDate)</td>
+
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td>
+                        <img class="img-thumbnail" style="cursor:pointer;height:250px;width:250px" src="@item.DiaryImage"
+                             asp-append-version="true" alt="@item.DiaryImage" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ItemId"><input class="btn btn-warning" value="Edit" style="width:25%" /> </a>
+                        <a asp-action="Delete" asp-route-id="@item.ItemId"><input class="btn btn-danger" value="Delete" style="width:25%" /></a>
+                    </td>
+
+                </tr>}
+
+        }
+    </tbody>
+</table>
+
